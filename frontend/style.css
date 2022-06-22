@@ -13,6 +13,8 @@
 }
 
 .flex-child {
-  width: 10px;
-  height: 10px;
+  width: 200px;
+  height: 200px;
+  background-color: azure;
+  border: 1px solid;
 }
